@@ -1,0 +1,29 @@
+How to start?
+-------------------------
+1. Github.com (Open Source)
+    - Account Create
+    - Local changes pushed to Github
+2. Local machine
+    - Installation
+        - Python 3+
+        - VS Code IDE
+            - settings.json
+3. Basics
+    - test.py
+4. Start with Study Guide - Functional.md (20-30 Hours)
+5. Practices | Excercises
+
+=============================================================
+          Secondary
+=============================================================
+1. AWS (Secondary) 
+    - Account Create
+        - Credit Card/Debit Card    
+            - $1 charge 
+                - Refund
+2. AWS (Secondary)
+    - EC2 Instance
+        - System
+            - Windows / Ubuntu 18.04 / Linux
+3. Console Coding
+
