@@ -52,3 +52,25 @@ Changes pushed to github account respository
 Branch Name:
     Mohita-11.10
 
+Branching Strategies:
+
+Strategy-1:
+    main/master
+        develop (Mohita)
+        develop (Deepak)
+        develop (Ranjan)
+
+Strategy-2:
+    main/master
+        develop
+            feature-1
+            feature-2
+            feature-3
+
+local
+    - main
+        - Mohita
+
+remote
+    - main
+        - Mohita
