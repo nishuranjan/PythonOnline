@@ -1,0 +1,53 @@
+1. Github
+- Not social platform
+- GitHub is an open source version control system (VCS) called Git. 
+  Git is responsible for everything GitHub-related 
+  that happens locally on your computer.
+
+[ Version control systems are a category of software tools that 
+helps record changes to files by keeping a track of modifications done to the code ]
+
+- Github is a version conteol system where we manage projects and source codes
+
+About repositories (Folder / Project)
+ A repository is like a folder for your project. Your project's 
+ repository contains all of your project's files and stores each 
+ file's revision history. You can also discuss and manage your 
+ project's work within the repository.
+
+Other than github version control system/tools/software:
+1. TFS (Microsoft Paid product, licensenced product)
+2. SVN (Open source)
+3. Octopus (?)
+4. Many....
+
+Open Source: People around world worked on same projects collaborative 
+             and source code of that project available for public. 
+             (anyone can use or modify in that source code)
+
+2. Commands
+ - git init
+ - git clone <repository url>
+ - git checkout -b <branch name>
+ - git status
+ - git diff
+ - git add .
+ - git commit -m <message>
+ - git commit -am <message>
+ - git push origin <branch name>
+ - git pull origin <branch name>
+ - git log
+
+What is the extension of python file?
+Answer: .py
+
+How to run the python code?
+Answer:
+1. Run through python <file name>
+   "D:/pythonexcercise/test.py"
+2. Open the command prompt or terminal and type python and run your logic
+
+
+
+
+

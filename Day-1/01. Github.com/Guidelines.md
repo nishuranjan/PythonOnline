@@ -29,7 +29,11 @@ e.g.
     PythonLearning/PythonOnline/validate.py
     PythonLearning/PythonOnline/checkversion.py
 
-5. git add .
+5. git diff
+What it means?
+Compare the files
+
+6. git add .
 What it means?
 a. Stage your changes
 b. For specific file to add
@@ -37,13 +41,36 @@ b. For specific file to add
     e.g.
     git add PythonLearning/PythonOnline/test.py PythonLearning/PythonOnline/validate.py
 
-6. git commit -m "Started learning python"
+7. git commit -m "Started learning python"
 What it means?
 All staged changed files commited
 
-7. git push origin Mohita
+8. git push origin Mohita
 What it means?
 Changes pushed to github account respository
 
-8. git status
+Branch Name:
+    Mohita-11.10
 
+Branching Strategies:
+
+Strategy-1:
+    main/master
+        develop (Mohita)
+        develop (Deepak)
+        develop (Ranjan)
+
+Strategy-2:
+    main/master
+        develop
+            feature-1
+            feature-2
+            feature-3
+
+local
+    - main
+        - Mohita
+
+remote
+    - main
+        - Mohita
