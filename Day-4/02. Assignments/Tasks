@@ -1,0 +1,18 @@
+1) IF Statement Exercise: 
+
+Assign 8 to the variable x and 15 to the variable y.
+
+In the same cell, create 2 conditional statements.
+
+Let the first one print “At least one of the conditions is satisfied.” if x is greater than 3 or y is even.
+
+Let the second one print “Neither condition is satisfied.” if x is less than or equal to 3 and y is odd.
+
+Change the values assigned to x and y and re-run the cell to verify your code still works.
+
+2) Write a function to convert a numerical grade to a letter grade, ‘A’, ‘B’, ‘C’, ‘D’ or ‘F’, 
+where the cutoffs for ‘A’, ‘B’, ‘C’, and ‘D’ are 90, 80, 70, and 60 respectively.
+
+3) https://www.codesdope.com/practice/python-decide-ifelse/
+
+4) https://holypython.com/intermediate-python-exercises/exercise-7-conditional-statements/
