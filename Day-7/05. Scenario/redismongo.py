@@ -4,9 +4,9 @@ from pymongo import MongoClient
 
 
 redis_client = redis.Redis(
-        host='redis-18767.c17.us-east-1-4.ec2.cloud.redislabs.com',
-        port=18767,
-        password='pRPbp9UXd4bkPvOKvrNKJJxgSPSLqNIS'
+        host='localhost',
+        port=6397,
+        password='if any'
     )
 
 def test_redis():
@@ -22,7 +22,7 @@ def test_redis():
     redis_value = redis_client.get('key-post')
     
     # mongodb connect and store redis value in document
-    client = MongoClient('mongodb+srv://testmongouser:test123@cluster0.use8p.mongodb.net/testmongodb?retryWrites=true&w=majority')
+    client = MongoClient()
     db = client.test_database
     posts = db.posts
     post_id = posts.insert_one(redis_value).inserted_id
