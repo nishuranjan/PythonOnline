@@ -10,3 +10,6 @@ https://docs.python.org/3.6/glossary.html
 
 Practices
 https://www.w3resource.com/python-exercises/?passed=passed
+
+Read about integer class
+https://docs.python.org/3.4/library/functions.html?highlight=int#int
