@@ -26,4 +26,3 @@ How to start?
         - System
             - Windows / Ubuntu 18.04 / Linux
 3. Console Coding
-
